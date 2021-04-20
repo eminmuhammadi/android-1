@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Week9 (FM5CC5)</string>
+    <string name="app_name">Week9 (FM5CC5) - Application</string>
     <string name="generateAsciiSum">Calculate Ascii</string>
     <string name="replaceCharacters">Replace Characters</string>
     <string name="input"></string>
